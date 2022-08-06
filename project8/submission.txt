@@ -1,0 +1,37 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+*******************************************************
+Story number and name: #5 Deleting Comments, Photos, and Users
+Story points: 4
+Brief description to see the story in action: Push the button labeled "Delete User" in the UserDetail page 
+    to delete the user and return to the Login page. Push the button labeled "Delete Photo" next to a photo 
+    in the logged in user's photos page to delete that photo. Click the button "Delete Comment" next to any 
+    comment the logged in user made to delete that comment.
+
+Story number and name: #6 Photo like votes
+Story points: 4
+Brief description to see the story in action: Next to any photo, click the thumbs up icon to like the photo or
+    click the thumbs down icon to unlike the photo
+
+Story number and name: #7 Favorite list of photos for user
+Story points: 6
+Brief description to see the story in action: Next to any photo on the logged in user's photo page, click the empty
+    heart next to the photo to favorite the photo or the full heart to unfavorite the photo. Then, click on the 
+    "Your Favorite Photos" button in the TopBar to view the logged in user's favorite photos via thumbnails. 
+    Click the thumbnail for a photo to view the entire photo and the date it was posted. 
+
+
+Total Story Points: 14
+
+Marketing Video URL (ensure permissions are set to public viewing): N/A
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? N/A
+
+Instructions for Grading (should be easy to run app from new machine): I have already gotten points taken off in project 7
+    for my ES lint errors. I cannot remove err or resolve path.join without affecting functionality. 
+

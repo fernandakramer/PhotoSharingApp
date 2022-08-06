@@ -1,0 +1,20 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+.toolbar {
+  flex-direction: row;
+  justify-content: space-between;
+}
+.right_side {
+  padding-right: 5px;
+}
+.upload {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.button {
+  width: fit-content;
+}

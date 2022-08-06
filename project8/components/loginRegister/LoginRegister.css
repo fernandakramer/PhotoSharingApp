@@ -1,0 +1,15 @@
+.loginRegister {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Avenir';
+}
+.loginArea {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.registerArea {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}

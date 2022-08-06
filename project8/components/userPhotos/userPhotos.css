@@ -1,0 +1,27 @@
+.photo_and_comments {
+    padding: 10px;
+    font-family: 'Avenir';
+}
+.photo {
+    max-width: 100%;
+}
+.time {
+    font-family: 'Avenir';
+    color: gray;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.comment {
+    padding: 10px;
+    color: black;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.likes_box {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+}
+.number_of_likes {
+    padding-left: 10px
+}

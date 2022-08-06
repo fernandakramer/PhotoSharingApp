@@ -1,0 +1,20 @@
+.details{
+    font-family: 'Avenir';
+    padding: 15px;
+}
+.name{
+    font-weight: bold;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+.description{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.info{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.delete_button{
+    margin-top: 20px;
+}
